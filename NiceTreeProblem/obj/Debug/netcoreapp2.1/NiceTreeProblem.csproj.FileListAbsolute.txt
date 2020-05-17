@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\obj\Debug\netcoreapp2.1\NiceTreeProblem.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\obj\Debug\netcoreapp2.1\NiceTreeProblem.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\obj\Debug\netcoreapp2.1\NiceTreeProblem.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\obj\Debug\netcoreapp2.1\NiceTreeProblem.AssemblyInfo.cs
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\bin\Debug\netcoreapp2.1\NiceTreeProblem.deps.json
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\bin\Debug\netcoreapp2.1\NiceTreeProblem.runtimeconfig.json
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\bin\Debug\netcoreapp2.1\NiceTreeProblem.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\bin\Debug\netcoreapp2.1\NiceTreeProblem.dll
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\bin\Debug\netcoreapp2.1\NiceTreeProblem.pdb
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\obj\Debug\netcoreapp2.1\NiceTreeProblem.dll
+C:\Users\MSI\source\repos\NiceTreeProblem\NiceTreeProblem\obj\Debug\netcoreapp2.1\NiceTreeProblem.pdb
